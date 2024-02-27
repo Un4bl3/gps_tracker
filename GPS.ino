@@ -1,4 +1,3 @@
-// For this project is used vcc ground esp32 and 
 #include <TinyGPSPlus.h>
 #include <SoftwareSerial.h>
 #define RX_pin 44
